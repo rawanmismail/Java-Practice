@@ -33,7 +33,7 @@ My practice is organised around the Java concepts I'm learning.
 | 🔀 Conditional Statements | If, else, switch |
 | 🔁 Loops | For, while, nested loops |
 | 📦 Arrays | One-dimensional arrays |
-| 🧮 Multidimensional Arrays | 2D arrays, jagged arrays |
+| 🧮 Multidimensional Arrays | 2D arrays, multi-dimensional arrays |
 | ⚙️ Methods | Reusable code and parameters |
 | 🏗️ Object-Oriented Programming | Classes, objects, constructors and more |
 | 💡 Mini Projects | Applying concepts through practical exercises |

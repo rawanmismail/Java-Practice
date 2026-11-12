@@ -47,3 +47,10 @@ public class StudentMarksManagementSystem {
 			double average = total / 3.0;
 			
 			
+			//Display student name and average
+			System.out.printf("%s - Average: %.2f%n", studentData[i][0], average);
+			//  %s = student name.
+			//  %.2f = average to 2 decimal places.
+			//  %n = move to the next line.
+		}
+		

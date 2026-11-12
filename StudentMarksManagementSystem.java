@@ -12,3 +12,17 @@ public class StudentMarksManagementSystem {
 				{"George", "68", "75", "80"}
 		};
 		
+		System.out.println("======= STUDENT MARKS =======");
+		
+		for (int i = 0; i < studentData.length; i++) {
+			for (int j = 0; j < studentData[i].length; j++) {
+				System.out.printf("%-15s", studentData[i][j]);   //This lines it up
+			}
+			
+			//printf() → prints formatted text.
+			//%s → means a String.
+			//15 → reserves 15 character spaces for that value.
+			//- → aligns the text to the left.
+			
+			System.out.println();
+		}

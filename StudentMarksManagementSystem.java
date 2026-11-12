@@ -76,3 +76,5 @@ public class StudentMarksManagementSystem {
 		System.out.println("Highest Mark: " + highest);
 
 		
+}
+}

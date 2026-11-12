@@ -11,3 +11,8 @@ public class CinemaSeatingLayout {
     		}
     	}
     	
+    	//Change parts of the array 
+    	seats [0][2] = 'X';
+    	seats [1][4] = 'X';
+    	seats [3][1] = 'X';
+    	

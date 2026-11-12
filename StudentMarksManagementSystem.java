@@ -31,3 +31,8 @@ public class StudentMarksManagementSystem {
 		System.out.println();
 		System.out.println("======= STUDENT RESULTS =======");
 		
+		// Start from row 1 because row 0 contains the headings
+		for (int i = 1; i < studentData.length; i++) {
+		
+		    int total = 0; // Start a new total for each student
+		    

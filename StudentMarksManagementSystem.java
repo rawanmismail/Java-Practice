@@ -54,3 +54,25 @@ public class StudentMarksManagementSystem {
 			//  %n = move to the next line.
 		}
 		
+		
+		System.out.println();
+		System.out.println();
+		System.out.println("======= HIGHEST MARK =======");
+
+		int highest = 0; // Stores the highest mark found
+
+		for (int i = 1; i < studentData.length; i++) {
+
+		    for (int j = 1; j < studentData[i].length; j++) {
+
+		        int mark = Integer.parseInt(studentData[i][j]);
+
+		        if (mark > highest) {
+		            highest = mark;
+		        }
+		    }
+		}
+
+		System.out.println("Highest Mark: " + highest);
+
+		

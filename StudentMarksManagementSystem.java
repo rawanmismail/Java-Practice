@@ -36,3 +36,6 @@ public class StudentMarksManagementSystem {
 		
 		    int total = 0; // Start a new total for each student
 		    
+		// Start from row 1 because row 0 contains the headings
+			for (int j = 1; j < studentData[i].length; j++) {
+				

@@ -16,3 +16,5 @@ public class CinemaSeatingLayout {
     	seats [1][4] = 'X';
     	seats [3][1] = 'X';
     	
+    	//Print heading
+    	System.out.println("====== CINEMA SEATING ======");

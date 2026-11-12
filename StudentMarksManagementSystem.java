@@ -26,3 +26,8 @@ public class StudentMarksManagementSystem {
 			
 			System.out.println();
 		}
+		
+		System.out.println();
+		System.out.println();
+		System.out.println("======= STUDENT RESULTS =======");
+		

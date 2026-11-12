@@ -43,3 +43,7 @@ public class StudentMarksManagementSystem {
 				total += Integer.parseInt(studentData[i][j]); //This converts the mark from a String into an int, then adds it to total.
 			}
 			
+			//Calculate the average per student 
+			double average = total / 3.0;
+			
+			

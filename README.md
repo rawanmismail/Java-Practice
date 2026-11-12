@@ -50,8 +50,6 @@ My practice is organised around the Java concepts I'm learning.
 
 ## 💻 The Learning Process
 
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Animated coding illustration" />
-
 Every exercise is an opportunity to learn something new.
 
 This repository is a continuous record of my progress, from beginner exercises to more challenging programming projects.
@@ -62,6 +60,5 @@ This repository is a continuous record of my progress, from beginner exercises t
 
 ### ✨ One step at a time. One line of code at a time.
 
-**Thanks for visiting my repository!** 💗
 
 </div>

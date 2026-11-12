@@ -39,3 +39,7 @@ public class StudentMarksManagementSystem {
 		// Start from row 1 because row 0 contains the headings
 			for (int j = 1; j < studentData[i].length; j++) {
 				
+				//Add the marks together in the inner loop
+				total += Integer.parseInt(studentData[i][j]); //This converts the mark from a String into an int, then adds it to total.
+			}
+			

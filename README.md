@@ -21,7 +21,7 @@ Welcome to my Java practice repository!
 
 I'm a Computer Science (Software Engineering) student documenting my journey of learning Java through hands-on exercises, programming challenges, and mini projects.
 
-This repository is where I practise concepts, experiment with code, make mistakes, solve problems, and track my progress as I become a better programmer.
+This repository is where I practise concepts, experiment with code, solve problems, and track my progress as I become a better programmer.
 
 ## 📚 Topics
 
